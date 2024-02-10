@@ -4,6 +4,9 @@ libreto aberto de uma opera eletronica
 
 Referencias:
 
+Leitura na integr:
+https://media.crvox.com/0x3856022a0209d2706460ef2989f04e7cf8076c36/opera%20pocket_800145015b65ab11b23ae7bb93c3928c.mp3
+
 https://gov.near.org/uploads/default/original/3X/8/1/818f8d514d29aa6deddb30eb57d0eba19d5d2a0e.jpeg
 https://gov.near.org/uploads/default/original/3X/6/4/644083bcf1a352389d9cf40c2c984dd271c831fe.jpeg
 https://gov.near.org/uploads/short-url/xvOHmMuFp3jFt30SnI45SXlPXS2.pdf
