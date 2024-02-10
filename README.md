@@ -21,3 +21,7 @@ https://www.voxels.com/spaces/3afc2eeb-ecea-4b77-a4ee-d8387a4a363d/play
 https://zora.co/collect/zora:0xb6c38499e2ffb874113b573337e89666f4be2cb9/1
 ![image](https://github.com/leafarsw/amanhecer-no-meio-dia-ao-mar/assets/66268763/86473669-bc53-49b8-94ea-4d2a546cb401)
 
+https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/25481483304258977533781815959353376984603456872285379957608405922768981327879
+![image](https://github.com/leafarsw/amanhecer-no-meio-dia-ao-mar/assets/66268763/020465ce-4835-4451-84b5-518f4597c1d4)
+
+https://paras.id/token/x.paras.near::452695/452695%3A1
